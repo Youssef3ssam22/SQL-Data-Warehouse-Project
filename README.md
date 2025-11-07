@@ -80,4 +80,59 @@ Deliver analytics and business insights through SQL and visualization tools.
 ---
 
 ## 📂 Repository Structure  
+data-warehouse-project/
+│
+├── datasets/                           # Raw ERP and CRM data (CSV)
+│
+├── docs/                               # Documentation & diagrams
+│   ├── data_architecture.drawio
+│   ├── data_flow.drawio
+│   ├── data_models.drawio
+│   ├── data_catalog.md
+│   ├── naming-conventions.md
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Raw layer (Extract & Load)
+│   ├── silver/                         # Clean & Standardize
+│   ├── gold/                           # Analytical models
+│
+├── tests/                              # Data quality checks
+│
+├── README.md                           # Project documentation
+├── LICENSE                             # MIT License
+├── .gitignore                          # Ignored files
+└── requirements.txt                    # Dependencies
+
+
+
+---
+
+## ☕ Stay Connected  
+
+💼 **LinkedIn:** [linkedin.com/in/youssefesam](https://linkedin.com/in/youssefesam)  
+💻 **GitHub:** [github.com/Youssef3ssam22](https://github.com/Youssef3ssam22)  
+
+---
+
+## 🌟 About Me  
+
+👋 **Youssef Essam Moustafa**  
+📍 New Cairo, Egypt  
+📧 [youssefamer277@gmail.com](mailto:youssefamer277@gmail.com)  
+
+I’m a **Junior Data Engineer** with a strong academic background in **Computer Science and Biomedical Informatics** (ranked first in class at Galala University).  
+Passionate about **data architecture, analytics, and automation**, I build scalable **ETL pipelines** and integrate business data for actionable insights.  
+
+### 🧠 Core Skills  
+- **Languages:** SQL | Python | C++  
+- **Data Engineering:** ETL | Data Warehousing | Airflow | Spark | Kafka (Basics)  
+- **Analytics:** Power BI | Tableau | Pandas | NumPy  
+- **Cloud:** AWS | GCP | Machine Learning (Basics)  
+
+### 💼 Experience Highlights  
+- **Google DEPI Internship:** Built and optimized ETL pipelines; designed Power BI & Tableau dashboards.  
+- **TachyHealth Internship:** Applied ML techniques on healthcare data for analytics and automation.  
+
+---
+
 
