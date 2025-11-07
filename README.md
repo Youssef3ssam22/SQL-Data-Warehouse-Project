@@ -79,32 +79,6 @@ Deliver analytics and business insights through SQL and visualization tools.
 
 ---
 
-## 📂 Repository Structure  
-data-warehouse-project/
-│
-├── datasets/                           # Raw ERP and CRM data (CSV)
-│
-├── docs/                               # Documentation & diagrams
-│   ├── data_architecture.drawio
-│   ├── data_flow.drawio
-│   ├── data_models.drawio
-│   ├── data_catalog.md
-│   ├── naming-conventions.md
-│
-├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Raw layer (Extract & Load)
-│   ├── silver/                         # Clean & Standardize
-│   ├── gold/                           # Analytical models
-│
-├── tests/                              # Data quality checks
-│
-├── README.md                           # Project documentation
-├── LICENSE                             # MIT License
-├── .gitignore                          # Ignored files
-└── requirements.txt                    # Dependencies
-
----
-
 ## ☕ Stay Connected  
 
 💼 **LinkedIn:** [linkedin.com/in/youssefesam](https://linkedin.com/in/youssefesam)  
