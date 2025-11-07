@@ -103,8 +103,6 @@ data-warehouse-project/
 ├── .gitignore                          # Ignored files
 └── requirements.txt                    # Dependencies
 
-
-
 ---
 
 ## ☕ Stay Connected  
