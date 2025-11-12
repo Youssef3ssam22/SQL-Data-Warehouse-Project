@@ -34,7 +34,7 @@ GO
 -- Create Schemas
 CREATE SCHEMA bronze;
 GO
-
+ /* go is for separation*/
 CREATE SCHEMA silver;
 GO
 
