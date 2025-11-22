@@ -7,9 +7,9 @@ Designed as a **portfolio project**, it showcases real-world practices in **data
 ---
 
 ## 🏗️ Data Architecture  
+This project follows the **Medallion Architecture** (Bronze, Silver, Gold) model for data processing and management:
 
-This project follows the **Medallion Architecture** (Bronze, Silver, Gold) model for data processing and management:  
-![Data Architecture Diagram](docs/DATA%20ARCHITECTURE.png)
+![Data Architecture Diagram](docs/Data%20Architecture.png)
 
 - **Bronze Layer:** Stores raw data as-is from source systems (ERP, CRM).  
 - **Silver Layer:** Cleansed, standardized, and enriched data ready for analysis.  
